@@ -389,20 +389,20 @@ img {
   width: 1px;
 }
 
-container {
+.container {
   width: 100%;
   max-width: 1157px;
   margin: 0 auto;
   padding: 0 20px;
 }
 
-button {
+.button {
   padding: 0;
   margin: 0;
   text-decoration: none;
 }
 
-main {
+.main {
   -webkit-box-flex: 1;
       -ms-flex-positive: 1;
           flex-grow: 1;
